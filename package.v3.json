@@ -1,0 +1,13 @@
+{
+  "r49st": {
+    "name": "系统工具",
+    "description": "显示系统环境信息。",
+    "labels": "系统",
+    "version": "1.0.0",
+    "icon": "",
+    "author": "systools",
+    "level": 1,
+    "release": false,
+    "system_version": ""
+  }
+}
